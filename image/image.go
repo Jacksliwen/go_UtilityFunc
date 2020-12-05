@@ -1,6 +1,6 @@
 package image
 
-import (	
+import (
 	"bytes"
 	"fmt"
 	"image"
@@ -16,7 +16,6 @@ import (
 	"github.com/golang/freetype"
 	"github.com/golang/freetype/truetype"
 	"golang.org/x/image/font"
-)
 )
 
 //GetImageFromFile 读取图片文件返回 image类型
