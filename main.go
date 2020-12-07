@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"go_UtilityFunc/calculate"
-	"go_UtilityFunc/file"
+
+	"github.com/JackSliwen/go_UtilityFunc/calculate"
+	"github.com/JackSliwen/go_UtilityFunc/file"
 )
 
 func main() {
