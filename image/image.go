@@ -167,7 +167,7 @@ func DrawStringOnImageAndSave(imagePath string, imageData []byte, infos []*DrawI
 	des := Image2RGBA(backgroud)
 
 	//新建笔刷
-	textBrush, _ := NewTextBrush("arial.ttf", 50, image.Black, 50)
+	textBrush, _ := NewTextBrush("ttf/arial.ttf", 50, image.Black, 50)
 
 	//Px Py 绘图开始坐标 text要绘制的文字
 	//调整颜色

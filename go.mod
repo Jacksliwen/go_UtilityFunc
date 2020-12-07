@@ -1,4 +1,4 @@
-module go_UtilityFunc
+module github.com/Jacksliwen/go_UtilityFunc
 
 go 1.14
 
